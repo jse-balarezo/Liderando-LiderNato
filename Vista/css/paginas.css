@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/aaaaaa.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 150vh;
+}
+#nav{
+    background-color: #f8fafa;
+}
+#nav a{
+    color: black;
+}
+h1{
+    text-align: center;
+    color: ghostwhite;
+}
+h2{
+    margin-left: 20px;
+    color: ghostwhite;
+}
+p{
+    color: ghostwhite;
+}
+footer{
+    background-color: #e80a33;
+    margin-bottom: auto;
+    font-size: 19px;
+    width: 1347px;
+    height: 90px;
+}
+footer a{
+    color: rgb(255, 255, 255);
+}
+.alinear-izquierda{
+    float: left;
+    width : 250px;
+    height : 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.alinear-derecha{
+    float: right;
+    width : 560px;
+    height : 375px;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.caja { 
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+    font-size: 18px; 
+    font-weight: 400; 
+    text-align: center; 
+    background: #ffff; 
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid #e80a33;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#segundo{
+    margin-right: 20px;
+    color: ghostwhite;  
+}
+#abajo{
+    color: black; 
+}
+#uno{
+    float: left;
+    width : 200px;
+    height : 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#dos{
+    
+    width : 200px;
+    height : 200px;
+    margin-left: 280px;
+    margin-right: 20px;
+}
+#tres{
+    float: right;
+    width : 200px;
+    height : 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.caja2 { 
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+    font-size: 18px; 
+    font-weight: 400; 
+    text-align: left; 
+    background: #ffff; 
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid #e80a33;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+#logo{
+    width : 60px;
+    height : 40px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
