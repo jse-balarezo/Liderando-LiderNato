@@ -4,7 +4,7 @@ body{
     background: url(../img/aaaaaa.jpg) no-repeat center top;
     background-size: cover;
     font-family: sans-serif;
-    height: 150vh;
+    height: auto; /* fondo de pantalla automatico*/
 }
 #nav{
     background-color: #f8fafa;
@@ -40,13 +40,26 @@ footer a{
     margin-left: 20px;
     margin-right: 20px;
 }
-.alinear-derecha{
-    float: right;
-    width : 560px;
-    height : 375px;
-    
+.alinear-centro{
+    float: center;
+    width : 250px;
+    height : 250px;
     margin-left: 20px;
     margin-right: 20px;
+}
+.alinear-derecha1{
+    float: right;
+    width : 450px;
+    height : 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.alinear-derecha2{
+    float: 850px;
+    width : 250px;
+    height : 250px;
+    margin-left: 80px;
+    margin-right: 20px;  
 }
 
 .caja { 
