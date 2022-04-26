@@ -1,3 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/aaaaaa.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: auto; /* fondo de pantalla automatico*/
+}
 #navllamada{
     color: #ffa500;
     font-size: 18px;
@@ -67,5 +75,7 @@ footer a{
     right: 1cm;
     left: 1cm;
     position: relative;
-    
+}
+h2{
+    color: white;
 }
