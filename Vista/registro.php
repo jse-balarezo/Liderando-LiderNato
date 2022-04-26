@@ -16,7 +16,7 @@
 <body>
     <div class="login-box">
         <img id="logo"  class="avatar" src="img/logo Liderando.jpg">
-        <h1>Registro</h1>
+        <h1>Lider-Nato</h1>
         <div class="form">
             <form action="../Controlador/main_controller.php" method="POST">
                 <!--Nombre-->

@@ -19,7 +19,7 @@
     <nav class="navbar navbar-expand-lg navbar-light" id="nav">
         <img src="./Vista/img/logo Liderando pequeño.jpg" id="logonav">
         <div class="container-fluid">
-            <a class="navbar-brand" href="./Vista/index.php">Liderando</a>
+            <a class="navbar-brand" href="./Vista/index.php">Lider-Nato</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
